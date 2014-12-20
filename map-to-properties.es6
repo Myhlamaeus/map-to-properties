@@ -1,4 +1,4 @@
-export default function(array, object) {
+export default function mapToProperties(array, object) {
     if(!Array.isArray(array)) {
         throw new TypeError("mapToProperties: expects argument 0 to be an array");
     }
