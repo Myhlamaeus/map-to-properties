@@ -1,22 +1,11 @@
 {
   "name": "map-to-properties",
-  "version": "0.1.0",
   "description": "map-to-properties\r =================",
-  "main": "map-to-properties.js",
-  "scripts": {
-    "test": "grunt test",
-    "prepublish": "grunt build:cjs"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ileri/map-to-properties.git"
-  },
+  "version": "0.1.0",
   "author": "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>",
-  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/ileri/map-to-properties/issues"
   },
-  "homepage": "https://github.com/ileri/map-to-properties",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-babel": "^4.0.0",
@@ -27,5 +16,16 @@
     "jshint-stylish": "^1.0.1",
     "load-grunt-tasks": "^3.1.0",
     "time-grunt": "^1.1.0"
+  },
+  "homepage": "https://github.com/ileri/map-to-properties",
+  "license": "GPL-3.0",
+  "main": "map-to-properties.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ileri/map-to-properties.git"
+  },
+  "scripts": {
+    "prepublish": "grunt build:cjs",
+    "test": "grunt test"
   }
 }
