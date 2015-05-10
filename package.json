@@ -1,6 +1,6 @@
 {
   "name": "map-to-properties",
-  "description": "map-to-properties\r =================",
+  "description": "Map array elements to properties of object",
   "version": "0.2.0",
   "author": "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>",
   "bugs": {
