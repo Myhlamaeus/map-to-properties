@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "homepage": "https://github.com/ileri/map-to-properties",
   "authors": [
-    "Malte-Maurice Dreyer <dreyer.maltem@gmail.com>"
+    "Malte-Maurice Dreyer <dreyer.maltem+dev@gmail.com>"
   ],
   "main": "map-to-properties.js",
   "moduleType": [
